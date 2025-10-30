@@ -34,8 +34,9 @@ It serves as both an educational and interactive experience for understanding BF
 
 ## 👥 Team
 Built by passionate developers as part of a hackathon challenge focused on **algorithm visualization** and **frontend interaction design**.
-
+-Gagan dboss
+-karthik
+-nandan kunte
 ---
 
-## 🖼️ Demo
-(Include GIF or link here if you have one)
+
